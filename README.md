@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 
 # Cloud Zenith (TCO Calculator)
-[Deployed Model (Click Me)](http://zenithbucket.s3-website.ap-south-1.amazonaws.com/)
+[Deployed Model (Click Me)](http://useast1frontend.s3-website-us-east-1.amazonaws.com/)
 
 - The project's frontend is hosted on AWS S3, while the backend is deployed on AWS EC2 instances. Machine learning algorithms are trained on AWS SageMaker, and their endpoints are accessed within the project via Lambda functions,which deploy REST APIs.
 
